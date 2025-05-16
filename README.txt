@@ -42,3 +42,5 @@ Dòng xe và độ confidence sẽ hiện ra, hoàn thành dự đoán
 Ảnh kết quả sẽ lưu trong thư mục CarDetectionProject/backend/static/results
 
 10. Đóng Server bằng cách nhấp chuột vào ô terminal nhấn Ctrl+C
+
+Link tải mô hình và history: https://drive.google.com/drive/folders/1WDUnm6plQ0tW5s2vzmeFFVB1Ee6kc9pb?usp=drive_link
